@@ -2,7 +2,7 @@
  * @Author: zimingli 873884635@qq.com 
  * @Date: 2022-09-15 13:22:43
  * @LastEditors: Liziming726 873884635@qq.com
- * @LastEditTime: 2022-09-15 22:06:06
+ * @LastEditTime: 2022-09-17 19:00:15
  * @FilePath: \farreli\pages\index.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -31,7 +31,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hey , I am Liziming , a sophomore from Shandong Zaozhuang
         <br />
-          I Love Front-End
+          Love Front-End
           </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
